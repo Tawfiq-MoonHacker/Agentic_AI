@@ -36,5 +36,5 @@ TAVILY_API_KEY=your_tavily_api_key
 
 ### 4. Run the app
 ```bash
-streamlit run task_agent.py
+streamlit run app.py
 ```
