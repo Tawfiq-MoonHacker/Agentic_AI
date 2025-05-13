@@ -24,3 +24,17 @@ cd Agentic-Ai
 ```bash
 pip install -r requirements.txt
 ```
+
+
+### 3. Set up environment variables
+Create a .env file in the root directory:
+```bash
+OPENAI_API_KEY=your_openai_api_key
+TAVILY_API_KEY=your_tavily_api_key
+```
+
+
+### 4. Run the app
+```bash
+streamlit run task_agent.py
+```
