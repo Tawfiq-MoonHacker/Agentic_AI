@@ -16,5 +16,8 @@ This project is an **agentic AI assistant** powered by OpenAI and Tavily APIs. I
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/Tawfiq-moonHacker/agentic-ai-assistant.git
-cd agentic-ai-assistant
+cd agentic-ai-assistant```
 
+2. Install dependencies
+```bash
+pip install -r requirements.txt```
